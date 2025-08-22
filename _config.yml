@@ -20,9 +20,9 @@
 
 title: CatioCrypto
 email: criptolatinos@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   Criptolatinos school of cryptography.
-baseurl: ""   # leave empty for root
+baseurl: "/2025"   # must match the repo name
 url: "https://catiocrypto.github.io"
 twitter_username: ""
 github_username: "catiocrypto"
